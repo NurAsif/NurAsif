@@ -1,4 +1,6 @@
 # Hi there 👋 I am Nur-A-All Asif
+# About
+I am a Computer Science graduate from Daffodil International University with a strong passion for data analysis and research. My goal is to become a data scientist, and I am currently focused on building skills in data analysis, visualization, and machine learning. I have hands-on experience using Excel and Power BI for data visualization, and I am actively exploring machine learning techniques. In addition, I have knowledge in both manual and automation software quality assurance (SQA), giving me a solid foundation in software testing and validation. I’m a dedicated learner, passionate about turning data into actionable insights.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nuraal.asif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nurasif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuraalasif@gmail.com) 
 
